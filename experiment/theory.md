@@ -9,12 +9,12 @@ the ratio of a circle’s circumference to its diameter π and the base of the n
 Although not as widely known, the golden ratio should surely be included in the pantheon
 of remarkable numbers. This quantity, which is typically represented by the Greek
 letter ϕ (pronounced: fee), was originally defined by Euclid (ca. 300 BCE) because of
-its role in the construction of the pentagram or five-pointed star. As depicted in Fig. 7.5,
+its role in the construction of the pentagram or five-pointed star.
 <br>Euclid’s definition reads: “A straight line is said to have been cut in extreme and mean ratio
 when, as the whole line is to the greater segment, so is the greater to the lesser.”
 The actual value of the golden ratio can be derived by expressing Euclid’s definition as <br>
 
-$$ \frac{l_1 + l_2}{l_1}  = \frac{l_1}{l_2} \\ \\ \\ eq (1) $$
+$$ \frac{l_1 + l_2}{l_1}  = \frac{l_1}{l_2} \ \ \ \ eq (1) $$
 
 </p>
 
@@ -25,7 +25,7 @@ $$ \frac{l_1 + l_2}{l_1}  = \frac{l_1}{l_2} \\ \\ \\ eq (1) $$
 
     where &Phi; = l<sub>1</sub> / l<sub>2</sub>. The positive root of this equation is the golden ratio: <br>
 
-    $$ \Phi = \frac{1 + \sqrt{5}}{2} = 1.61803398874989 \\ \\ \\ eq (3) $$
+    $$ \Phi = \frac{1 + \sqrt{5}}{2} = 1.61803398874989 \ \ \ \ eq (3) $$
 
 </p>
 
@@ -43,7 +43,7 @@ guess (xl) and an upper guess (xu) that bracketed a single root. The presence of
 these bounds was verified by determining that f (xl) and f (xu) had different signs. The
 root was then estimated as the midpoint of this interval:
 <br>
-$$ x_r = \frac{x_1 + x_u}{2} \\ \\ \\ eq (4) $$
+$$ x_r = \frac{x_1 + x_u}{2} \ \ \ \ eq (4) $$
 
 </p>
 
