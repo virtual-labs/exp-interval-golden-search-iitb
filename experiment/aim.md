@@ -1,1 +1,1 @@
-<h2>AIM: To study Gaussian Elimination</h2>
+﻿<h2> AIM: To study golden search method. </h2>
