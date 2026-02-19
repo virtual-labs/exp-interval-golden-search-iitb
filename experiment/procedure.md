@@ -1,29 +1,45 @@
-﻿
-<h3><b>Step I:</b></h3>
-<br>
-<img src="./images/step1.png" style="width:100%">
+﻿<h2>Procedure:</h2>
 
-<br>
-<h3><b>Step II:</b> </h3>
-<br>
-<img src="./images/step2.png" style="width:100%">
-<br>
+<h3>Step 1 : Click on "Next".</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro1.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
-<h3><b>Step III:</b> </h3>
-<img src="./images/step3.png" style="width:100%">
-<br>
+<h3>Step 2 : Calculate d</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro2.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
+<h3>Step 3 : Calculate x<sub>1</sub> and x<sub>2</sub></h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro3.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
-<h3><b>Step IV: </b></h3>
-<img src="./images/step4.png" style="width:100%">
-<br>
+<h3>Step 4 : Calculate f(x<sub>1</sub>) and f(x<sub>2</sub>)</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro4.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
-<h3><b>Step V: </b></h3>
-<img src="./images/step5.png" style="width:100%">
-<br>
-<h3><b>Step IV:</b></h3>
+<h3>Step 5 : Updated value of x<sub>L</sub> and x<sub>U</sub> for next iteration.</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro5.png" style="width:auto; height:auto; max-width:100%;">
+</div>
+<h3>Step 6 : Calculate d</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro6.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
-<img src="./images/step6.png" style="width:100%">
-<br>
+<h3>Step 7 : Calculate x<sub>1</sub> and x<sub>2</sub></h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro7.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
+<h3>Step 8 : Calculate f(x<sub>1</sub>) and f(x<sub>2</sub>)</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro4.png" style="width:auto; height:auto; max-width:100%;">
+</div>
 
+<h3>Step 9 : Updated value of x<sub>L</sub> and x<sub>U</sub> for next iteration.</h3>
+<div style="width:80%; margin:auto;">
+    <img src="./images/pro5.png" style="width:auto; height:auto; max-width:100%;">
+</div>
