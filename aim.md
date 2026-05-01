@@ -1,0 +1,1 @@
+﻿<h2> AIM: To find a minimum of a transcendental equation within the given interval using the golden section search method. </h2>
